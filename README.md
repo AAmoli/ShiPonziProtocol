@@ -31,7 +31,6 @@ The more people participate the better our Ponzi Protocol flows and the more you
 
 
 
-
            #                       #                       #                      
           ###                     ###                     ###                    
          #####                   #####                   #####                  
@@ -40,8 +39,7 @@ The more people participate the better our Ponzi Protocol flows and the more you
       ###########             ###########             ###########            
      #############           #############           #############          
     ###############         ###############         ###############        
-   #################       #################       #################      
-  ###################     ###################     ###################    
+  
              
 
  
